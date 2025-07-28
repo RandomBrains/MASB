@@ -41,7 +41,7 @@ MASB is a comprehensive, enterprise-ready framework for evaluating AI model safe
 
 ```bash
 # Clone the repository
-git clone https://github.com/WolfgangDremmler/MASB.git
+git clone https://github.com/RandomBrains/MASB.git
 cd MASB
 
 # Install dependencies
@@ -328,7 +328,7 @@ RESOURCE_MONITORING_INTERVAL=1.0
 
 ```bash
 # Clone and setup development environment
-git clone https://github.com/WolfgangDremmler/MASB.git
+git clone https://github.com/RandomBrains/MASB.git
 cd MASB
 pip install -r requirements-dev.txt
 
@@ -359,15 +359,15 @@ If you use MASB in your research, please cite:
   title={MASB: Multilingual Adversarial Safety Benchmark},
   author={Wolfgang Dremmler},
   year={2024},
-  url={https://github.com/WolfgangDremmler/MASB}
+  url={https://github.com/RandomBrains/MASB}
 }
 ```
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/WolfgangDremmler/MASB/tree/main/docs/wiki)
-- **Issues**: [GitHub Issues](https://github.com/WolfgangDremmler/MASB/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/WolfgangDremmler/MASB/discussions)
+- **Documentation**: [Wiki](https://github.com/RandomBrains/MASB/docs/wiki)
+- **Issues**: [GitHub Issues](https://github.com/RandomBrains/MASB/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/RandomBrains/MASB/discussions)
 - **Email**: randombrain489@gmail.com
 
 ---
