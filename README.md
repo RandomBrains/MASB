@@ -365,7 +365,7 @@ If you use MASB in your research, please cite:
 
 ## 📞 Support
 
-- **Documentation**: [Wiki](https://github.com/RandomBrains/MASB/docs/wiki)
+- **Documentation**: [Wiki](https://github.com/RandomBrains/MASB/tree/main/docs/wiki) 
 - **Issues**: [GitHub Issues](https://github.com/RandomBrains/MASB/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/RandomBrains/MASB/discussions)
 - **Email**: randombrain489@gmail.com
